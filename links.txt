@@ -8,15 +8,34 @@ Microservices related links
 
 Links
 =====
+This seven‑part series of articles is now complete:
+1. Introduction to Microservices (this article)
+   microservices, monolithic application, Docker, cloud
+   by Chris Richardson - May 19, 2015
+   https://www.nginx.com/blog/introduction-to-microservices/
+
+2. Building Microservices: Using an API Gateway
+   https://www.nginx.com/blog/building-microservices-using-an-api-gateway/
+
+3. Building Microservices: Inter-Process Communication in a Microservices Architecture
+   https://www.nginx.com/blog/building-microservices-inter-process-communication/
+
+4. Service Discovery in a Microservices Architecture
+   https://www.nginx.com/blog/event-driven-data-management-microservices/
+
+5. Event-Driven Data Management for Microservices
+   https://www.nginx.com/blog/event-driven-data-management-microservices/
+
+6. Choosing a Microservices Deployment Strategy
+   https://www.nginx.com/blog/deploying-microservices/
+
+7. Refactoring a Monolith into Microservices
+   https://www.nginx.com/blog/refactoring-a-monolith-into-microservices/
+
 Building Microservices: Using an API Gateway
 microservices, API gateway
 by Chris Richardson - June 15, 2015
 https://www.nginx.com/blog/building-microservices-using-an-api-gateway/
-
-Introduction to Microservices
-microservices, monolithic application, Docker, cloud
-by Chris Richardson - May 19, 2015
-https://www.nginx.com/blog/introduction-to-microservices/
 
 Pattern: Microservice Architecture
 http://microservices.io/patterns/microservices.html
