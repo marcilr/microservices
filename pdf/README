@@ -1,0 +1,15 @@
+README
+Created Mon Jun 19 09:49:55 AKDT 2017
+Copyright (C) 2017 by Raymond E. Marcil <marcilr@gmail.com>
+
+
+  Designing and Deploying Microservices
+  Microservices architecture makes your apps more flexible,
+  more stable, and faster.  This ebook shows how to design,
+  develop, and deliver microservices.
+  In this ebook you will learn:
+  o When and why it makes sense to adopt microservices
+  o How to implement an API gateway to route traffic to microservices
+  o Pros and cons of different service discovery patterns
+  o Different strategies for refactoring a monolith to microservices
+  https://www.nginx.com/resources/library/designing-deploying-microservices/
